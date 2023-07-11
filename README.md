@@ -1,4 +1,4 @@
-<h1>:blue_car:P rojeto 1</a></h1>
+<h1>:blue_car:Projeto 1</a></h1>
 
 <div style="display: inline_block">
 
