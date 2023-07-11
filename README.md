@@ -1,9 +1,5 @@
 <h1>Curso de Front-end</a></h1>
 
-![1](https://github.com/joao-biondi/curso-de-html-css-e-js/assets/119629224/10c7133d-4599-4f2e-bdea-229583577662)
-![2](https://github.com/joao-biondi/curso-de-html-css-e-js/assets/119629224/fd1a350e-7ec9-45f5-813b-04563a35ba0c)
-![3](https://github.com/joao-biondi/curso-de-html-css-e-js/assets/119629224/fdbcf2bd-1b1e-47c8-98ad-d06b6a1f96fd)
-
 <div style="display: inline_block">
   <h2>🧑‍💻Tecnologias:</h2>
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
