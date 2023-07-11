@@ -13,14 +13,6 @@
 ![3](https://github.com/joao-biondi/curso-de-html-css-e-js/assets/119629224/d7a2edc6-e0f5-4c44-89d6-f6dc28ef78f9)
 
 
-<div style="display: inline_block">
-  
-<a href = "mailto:joaovitorantunesdossantos98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/joão-vitor-a10315218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  
-</div>
-
 <h2>:bookmark_tabs: Descrição</h2>
 <p>Projeto feito pra aprender os conceitos de html e css</p>
 
