@@ -8,7 +8,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição:</h2>
-<p>Nesse repositório vou postar alguns projetos feitos em html, css e js para fixar alguns conceitos e conhecimentos nessas tecnologias. joao lindo</p>
+<p>Nesse repositório vou postar alguns projetos feitos em html, css e js para fixar alguns conceitos e conhecimentos nessas tecnologias.</p>
 
 
 <h2>:dollar: Licença:</h2>
